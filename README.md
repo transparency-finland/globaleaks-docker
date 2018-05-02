@@ -20,10 +20,6 @@ services:
 
 ``` 
 
-Here is a oneliner for `docker`:  Actually, I use `docker-compose` and am not going to bother looking this up.  Submit a pull request.
-
-This container does not stop gracefully, probably because of the docker-entrypoint.sh stuff going on. 
-
 ## Notes: 
  Based on work by @ckeeney
 
