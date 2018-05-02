@@ -1,6 +1,6 @@
 This is a docker implementation of [Globaleaks](https://www.globaleaks.org/).
 
-It is [available on DockerHub](https://hub.docker.com/r/transparency/globaleaks/).
+It is [available on DockerHub](https://hub.docker.com/r/transparencyfinland/globaleaks/).
 
 Here is a minimal `docker-compose.yml` needed to run this image:
 
