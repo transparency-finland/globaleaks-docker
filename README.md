@@ -16,7 +16,10 @@ services:
       - 80:80
       - 443:443
     volumes:
-      - ./data/var/:/var/globaleaks
+      - globaleaks-data:/var/globaleaks
+
+volumes:
+  globaleaks-data:
 
 ``` 
 
