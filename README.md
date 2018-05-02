@@ -24,5 +24,5 @@ services:
  Based on work by @ckeeney
 
 ## Installation: 
-Install by cloning this repo, and run ```sudo docker-compose up```
+Install by cloning this repo, and run ```sudo docker-compose up``` or in detached mode in the background ```sudo docker-compose up -d```
 
