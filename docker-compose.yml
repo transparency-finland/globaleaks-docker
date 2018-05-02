@@ -1,7 +1,7 @@
 version: "3"
 services:
   globaleaks:
-    image: transparencyfinland
+    image: transparencyfinland/globaleaks:dev-0.1
     build: .
     cap_add:
       - NET_ADMIN
