@@ -8,7 +8,7 @@ Here is a minimal `docker-compose.yml` needed to run this image:
 version: "3"
 services:
   globaleaks:
-    image: transparencyfinland/globaleaks
+    image: transparencyfinland/globaleaks:dev-0.1
     build: .
     cap_add:
       - NET_ADMIN
