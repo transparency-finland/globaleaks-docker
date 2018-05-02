@@ -25,7 +25,7 @@ Here is a oneliner for `docker`:  Actually, I use `docker-compose` and am not go
 This container does not stop gracefully, probably because of the docker-entrypoint.sh stuff going on. 
 
 ## Notes: 
- Based on work by @ckeeney on https://github.com/ckeeney/docker-globaleaks
+ Based on work by @ckeeney
 
 ## Installation: 
 Install by cloning this repo, and run sudo docker-compose up
